@@ -1,5 +1,5 @@
 # python-project
-Zip file extract to desire within included that file
+#Zip file extract to desire format with GUI using Tkinter
 from tkinter import *
 import os,zipfile
 def conv():
